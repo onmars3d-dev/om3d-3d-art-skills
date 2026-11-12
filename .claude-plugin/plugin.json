@@ -1,0 +1,7 @@
+{
+  "name": "om3d-3d-art-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for 3D artists: retopo, UVs, bake and export prep, tool building, and Blender MCP.",
+  "author": { "name": "OnMars3D", "url": "https://www.onmars3d.com" },
+  "license": "MIT"
+}

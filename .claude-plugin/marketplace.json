@@ -1,0 +1,11 @@
+{
+  "name": "om3d-3d-art-skills",
+  "owner": { "name": "OnMars3D", "url": "https://www.onmars3d.com" },
+  "plugins": [
+    {
+      "name": "om3d-3d-art-skills",
+      "source": "./",
+      "description": "Agent skills for 3D artists: retopo, UVs, bake and export prep, tool building, and Blender MCP."
+    }
+  ]
+}
